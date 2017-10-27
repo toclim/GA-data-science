@@ -1,1 +1,1 @@
-# GA-data-science
+# Project for General Assembly Data Science
